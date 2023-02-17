@@ -1,5 +1,6 @@
 # TP0
 
+
 Etape1:
 réponse:1,2,4
 Etape2:
