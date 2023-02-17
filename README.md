@@ -1,21 +1,21 @@
 # TP0
 
 
-Etape1:
-réponse:1,2,4
-Etape2:
-réponse:2
-Etape3:
-réponse:1,3
-Etape4:
-réponse:2
-Etape5:
-réponse:1
-Etape6:
-réponse:3
-Etape7:
-réponse:2
-Etape8:
-réponse:4
-Etape9:
-réponse:2
+Etape1:<br />
+  réponse:1,2,4<br />
+Etape2:<br />
+  réponse:2<br />
+Etape3:<br />
+  réponse:1,3<br />
+Etape4:<br />
+  réponse:2<br />
+Etape5:<br />
+  réponse:1<br />
+Etape6:<br />
+  réponse:3<br />
+Etape7:<br />
+  réponse:2<br />
+Etape8:<br />
+  réponse:4<br />
+Etape9:<br />
+  réponse:2<br />
